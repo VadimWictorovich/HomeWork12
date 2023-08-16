@@ -79,5 +79,4 @@ for (_, value) in someDictinary {
         break
     }
 }
-
 print(total)
